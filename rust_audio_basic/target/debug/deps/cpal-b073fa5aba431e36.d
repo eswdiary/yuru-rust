@@ -1,0 +1,13 @@
+/home/ewd/Documents/yuru-rust/rust_audio_basic/target/debug/deps/cpal-b073fa5aba431e36.d: /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/lib.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/device_description.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/error.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/mod.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/alsa/mod.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/alsa/enumerate.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/platform/mod.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/samples_formats.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/traits.rs
+
+/home/ewd/Documents/yuru-rust/rust_audio_basic/target/debug/deps/libcpal-b073fa5aba431e36.rmeta: /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/lib.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/device_description.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/error.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/mod.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/alsa/mod.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/alsa/enumerate.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/platform/mod.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/samples_formats.rs /home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/traits.rs
+
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/lib.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/device_description.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/error.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/mod.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/alsa/mod.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/host/alsa/enumerate.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/platform/mod.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/samples_formats.rs:
+/home/ewd/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cpal-0.17.3/src/traits.rs:
