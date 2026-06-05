@@ -20,4 +20,3 @@ fn main() {
     player.set_volume(1.5);
     std::thread::sleep(std::time::Duration::from_secs(2));
 }
-
