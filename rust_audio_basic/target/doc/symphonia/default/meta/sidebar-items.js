@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"mod":["embedded"],"struct":["ApeReader","Id3v1Reader","Id3v2Reader"]};
